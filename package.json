@@ -1,0 +1,14 @@
+{
+  "name": "cleanestdiscordbot",
+  "version": "1.0.0",
+  "description": "yeh",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Pady#1129",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
